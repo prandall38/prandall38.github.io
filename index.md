@@ -8,9 +8,9 @@ Mechanical Engineering Portfolio
 
 Welcome — this site showcases selected engineering projects, design work, and analysis.
 
-> [About](about.html)
+📒 [About](about.html)
 
-> [Projects](projects.html)
+📒 [Projects](projects.html)
 
-> [Contact](contact.html)
+📒 [Contact](contact.html)
 
