@@ -1,16 +1,10 @@
 ---
-layout: page
-title: Patrick Randall | Mechanical Engineering Portfolio
+layout: default
 ---
-
-# Patrick Randall
-Mechanical Engineering Portfolio
 
 Welcome — this site showcases selected engineering projects, design work, and analysis.
 
-📒 [About](about.html)
-
-📒 [Projects](projects.html)
-
-📒 [Contact](contact.html)
-
+### Navigation
+- [Projects](projects.html)
+- [Resume (PDF)](assets/pdfs/resume.pdf)
+- [Contact](contact.html)
