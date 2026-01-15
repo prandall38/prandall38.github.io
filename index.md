@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pat Randall | Mechanical Engineering Portfolio
+title: Patrick Randall | Mechanical Engineering Portfolio
 ---
 
 # Pat Randall
