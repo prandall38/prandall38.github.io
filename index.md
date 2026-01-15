@@ -3,7 +3,7 @@ layout: page
 title: Patrick Randall | Mechanical Engineering Portfolio
 ---
 
-# Pat Randall
+# Patrick Randall
 Mechanical Engineering Portfolio
 
 Welcome — this site showcases selected engineering projects, design work, and analysis.
